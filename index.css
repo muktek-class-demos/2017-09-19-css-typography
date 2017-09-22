@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:100,700');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  font-family: 'Roboto Mono', 'Ubuntu', monospace; /* css fallbacks */
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  letter-spacing: 8px;
+  font-weight: 100;
+}
+
+p {
+  font-family: 'Lato';
+  font-weight: 700;
+  /*line-height: 0.6;*/
+  line-height: 40px;
+}
+
+
+
+
+
+
+
+/*
+@import url(path/to/typography);
+font-family -- Establecer el nombre de la tipografia
+font-size --  Tamanio del texto
+font-weight -- 100/900
+letter-spacing -- Espacio entre letras
+line-height -- Interlineado
+*/
